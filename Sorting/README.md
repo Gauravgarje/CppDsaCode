@@ -1,13 +1,42 @@
-# O(n<sup>2</sup>) Algorithms
+# 1) Selection Sort
 
-## 1) Bubble Sort
+- Time Complexity -
+- <a href="https://www.geeksforgeeks.org/selection-sort-algorithm-2/" target="_blank">Selection Sort Algorithm(GFG)</a>
 
-- Bubble sort consists of n rounds. On each round, the algorithm iterates through the elements of the array. Whenever two consecutive elements are found that are not in correct order, the algorithm swaps them
-- <a href="https://www.geeksforgeeks.org/bubble-sort-in-cpp/" target="_blank">Geeks For Geeks</a>
+# 2) Bubble Sort
 
-# O(n.log(n)) Algorithms
+- Time Complexity -
+- <a href="https://www.geeksforgeeks.org/bubble-sort-algorithm/" target="_blank">Bubble Sort Algorithm(GFG)</a>
 
-## 2) Merge Sort
+# 3) Insertion Sort
+
+- Time Complexity -
+- <a href="https://www.geeksforgeeks.org/insertion-sort-algorithm/" target="_blank">Insertion Sort Algorithm(GFG)</a>
+
+# 4) Merge Sort
+
+- Time Complexity -
+- <a href="https://www.geeksforgeeks.org/merge-sort/" target="_blank">Merge Sort Algorithm(GFG)</a>
+
+# 5) Quick Sort
+
+- Time Complexity -
+- <a href="https://www.geeksforgeeks.org/quick-sort-algorithm/" target="_blank">Quick Sort Algorithm(GFG)</a>
+
+# 6) Heap Sort
+
+- Time Complexity -
+- <a href="https://www.geeksforgeeks.org/heap-sort/" target="_blank">Heap Sort Algorithm(GFG)</a>
+
+# 7) Counting Sort
+
+- Time Complexity -
+- <a href="https://www.geeksforgeeks.org/counting-sort/" target="_blank">Counting Sort Algorithm(GFG)</a>
+
+# 8) Radix Sort
+
+- Time Complexity -
+- <a href="https://www.geeksforgeeks.org/radix-sort/" target="_blank">Radix Sort Algorithm(GFG)</a>
 
 1. If a Æ b, do not do anything, because the subarray is already sorted.
 2. Calculate the position of the middle element: k Æ b(aÅb)/2c.
