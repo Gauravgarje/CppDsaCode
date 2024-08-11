@@ -11,7 +11,7 @@ int main()
     // following two lines of code is required to make input and output more efficient
     ios::sync_with_stdio(0);
     cin.tie(0);
-    
+
     cin >> name;
     cout << "Hello " << name << "\n";
     cout << "How are you?";
